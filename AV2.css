@@ -1,0 +1,63 @@
+/* Corpo da página*/
+
+body {
+    background-color: rgb(202, 240, 239);
+    font-size: 130%;
+    line-height: 2.0;
+    border-bottom: 10px solid black;
+}
+
+/* contéudo da página */
+
+h1 {
+    text-transform: ;
+    font-family: 'Anton', sans-serif;
+    font-size:40px;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 10px solid rgb(5, 3, 0);
+    background-color:rgb(240, 160, 151)
+
+} 
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    text-align: left;
+    font-size: 25px;
+    padding:3%;
+}
+
+p {
+    font-family: 'Squada One', cursive;
+    text-align: center;
+    padding:3%;
+}
+
+a {
+    text-decoration:none;
+}
+
+blockquote {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.referencia {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+.tomarnocu {
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+}
+
+.cabecalho {
+    padding:3%;  
+}
+
+
